@@ -1,2 +1,2 @@
-# Secure-Coding-Review-Bandit-
-Secure-Coding-Review-Bandit- Static Ananlysis of Vulnerable Python Code + remediation demonstration. Tools: Bandit (Python security linter) key files: -'vulnerable_app.py' - intentionally flawed code -'fixed_app.py
+# CodeAlpha_CyberSecurity_-Secure-Coding-Review-Bandit-
+Static Ananlysis of Vulnerable Python Code + remediation demonstration. Tools: Bandit (Python security linter) key files: -'vulnerable_app.py' - intentionally flawed code -'fixed_app.py' - Remediated version -'report.md'- Findings, CVEs/warnings (B105, B602, etc), fixes &amp; best pratices -'Videos/Task3_Explanation.mp4' -Before/After scan demo
